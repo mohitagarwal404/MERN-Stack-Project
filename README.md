@@ -1,37 +1,65 @@
+# Social-Network-App
 
-Features:-> 
-1.>Password Authentication(using JWT)
+Welcome to the Social-Network-App repository! This application is a feature-rich social networking platform built using Node.js, Express.js, and MongoDB.
 
-2.>Login and SignUp 
+## Features
 
-3.>Create Post 
+1. **Password Authentication (using JWT)**
+   - Secure your account with password authentication and JWT for token-based access.
 
-4.>Like and Unlike Post 
+2. **Login and SignUp**
+   - Easily create a new account or log in with existing credentials.
 
-5.>Double Click on image for like 
+3. **Create Post**
+   - Share your thoughts, images, and updates with the community by creating posts.
 
-6.>Comment On post
+4. **Like and Unlike Post**
+   - Engage with posts by liking and unliking them.
 
-7.>Update Profile(name ,email,bio,profile pic)
+5. **Double Click on Image for Like**
+   - Provide an intuitive and quick way to like posts by double-clicking on images.
 
-8.>Follow and Unfollow user
+6. **Comment on Post**
+   - Interact with posts by leaving comments and engaging in discussions.
 
-9.>Logout
+7. **Update Profile**
+   - Customize your profile by updating information such as name, email, bio, and profile picture.
 
-10.>u can see all the post for all user
+8. **Follow and Unfollow User**
+   - Connect with others by following and unfollowing users.
 
-11.> u can also see the post for following user in separate section
+9. **Logout**
+   - Securely log out from your account to protect your privacy.
 
-12.> like and unlike the comment of the post
+10. **View All Posts**
+    - Explore and discover posts from all users on the platform.
 
-13.> u can delete your own comments
+11. **View Following User Posts**
+    - Access a separate section to view posts specifically from users you follow.
 
-14.>u can seee your followers and following list
+12. **Like and Unlike Post Comments**
+    - Express your opinion on comments by liking and unliking them.
 
-15.>chatBox is also main feature
+13. **Delete Your Own Comments**
+    - Maintain control over your contributions by deleting your comments.
 
-16.>u can chat to anyone in the application
+14. **View Followers and Following List**
+    - Keep track of your followers and users you're following.
 
-17.> u can delete your own messages
+15. **ChatBox**
+    - Engage in real-time conversations with other users through the integrated chatbox.
 
-Still in Progess....
+16. **Chat with Anyone**
+    - Initiate conversations with any user within the application.
+
+17. **Delete Your Own Messages**
+    - Manage your chat history by deleting your own messages.
+
+
+## Getting Started
+
+1. Clone the repository.
+2. Install dependencies: `npm install`
+3. Configure your MongoDB connection in `config.js`.
+4. Run the application: `npm start`
+
